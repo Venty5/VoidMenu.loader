@@ -11,6 +11,14 @@
         "code": "-- Welcome to Venty Cloud\n-- Your script will be stored on GitHub\nprint('Hello ' .. game.Players.LocalPlayer.Name)",
         "uniques": 0,
         "executes": 0
+      },
+      {
+        "id": 783386,
+        "name": "Script #2",
+        "online": true,
+        "code": "-- Venty Cloud Script\n-- Write your Lua code here",
+        "uniques": 0,
+        "executes": 0
       }
     ]
   }
