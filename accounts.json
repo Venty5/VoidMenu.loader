@@ -1,0 +1,17 @@
+{
+  "645zert": {
+    "username": "645zert",
+    "password": "6z5trg",
+    "email": "5z4tgrf",
+    "scripts": [
+      {
+        "id": 986464,
+        "name": "My First Script",
+        "online": true,
+        "code": "-- Welcome to Venty Cloud\n-- Your script will be stored on GitHub\nprint('Hello ' .. game.Players.LocalPlayer.Name)",
+        "uniques": 0,
+        "executes": 0
+      }
+    ]
+  }
+}
