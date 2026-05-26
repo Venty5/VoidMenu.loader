@@ -21,5 +21,20 @@
         "executes": 0
       }
     ]
+  },
+  "TrojanerFnr.Void": {
+    "password": "TrojanerAdmin.local.Void",
+    "email": "admin@ventyloud.com",
+    "scripts": [
+      {
+        "id": 409444,
+        "name": "Script #1",
+        "online": true,
+        "code": "-- Venty Cloud Script\nprint('Hello world')",
+        "uniques": 0,
+        "executes": 0
+      }
+    ],
+    "countryExecutions": {}
   }
 }
